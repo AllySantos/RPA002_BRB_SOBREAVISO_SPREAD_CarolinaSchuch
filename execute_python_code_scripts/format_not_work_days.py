@@ -6,7 +6,7 @@ import re
 def remove_characters(text: str) -> str:
 
     # Replace any non-number character for ''
-    return re.sub('(?i)(, [a-z]|,[a-z]|[.])', '', text)
+    return re.sub('(?i)([.]|[a-zA-Z])', '', text)
 
 # Remove remaining commas and white spaces
 def remove_commas(text: str) -> str:
@@ -16,7 +16,16 @@ def remove_commas(text: str) -> str:
     # Remove more than one comma and replace by one (,,,,,,,,,,,, = ,)
     text = re.sub('(,)+', ',', text)
 
+
+    text_length = len(text)
+    last_character = text[text_length - 1]
+
+    # If remain a comma at the end of the text, remove it    
+    if last_character == ',':
+        text = text[:-1]
+
     return text
+
 
 
 if __name__ == '__main__':
