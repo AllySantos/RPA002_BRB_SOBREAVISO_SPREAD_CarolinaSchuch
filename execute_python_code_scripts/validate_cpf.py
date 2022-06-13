@@ -58,7 +58,7 @@ def calculate_digit(slice_cpf, digit):
 
 
 if __name__ == '__main__':
-    # Get data from Electrokeev
+    # Get data from ElectroNeek
     cpf = sys.argv[1]
    
     # Left only numbers
