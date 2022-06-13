@@ -1,0 +1,178 @@
+[2022-05-17T17:39:54.969Z] : [success]: Robot saved successfully
+
+[2022-05-17T17:40:02.661Z] : [success]: Bot started
+
+[2022-05-17T17:40:02.662Z] : [info]: Robot start
+
+[2022-05-17T17:40:10.807Z] : [info]: true
+
+[2022-05-17T17:40:12.184Z] : [success]: Bot finished successfully, total execution time: 9s 517ms
+
+[2022-05-17T17:40:12.188Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:40:21.683Z] : [success]: Bot started
+
+[2022-05-17T17:40:21.686Z] : [info]: Robot start
+
+[2022-05-17T17:40:25.527Z] : [info]: false
+
+[2022-05-17T17:40:27.141Z] : [success]: Bot finished successfully, total execution time: 5s 453ms
+
+[2022-05-17T17:40:27.144Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:40:33.646Z] : [success]: Bot started
+
+[2022-05-17T17:40:33.647Z] : [info]: Robot start
+
+[2022-05-17T17:40:39.880Z] : [info]: true
+
+[2022-05-17T17:40:41.145Z] : [success]: Bot finished successfully, total execution time: 7s 493ms
+
+[2022-05-17T17:40:41.148Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:41:53.436Z] : [success]: Bot started
+
+[2022-05-17T17:41:53.437Z] : [info]: Robot start
+
+[2022-05-17T17:41:58.790Z] : [info]: true
+
+[2022-05-17T17:41:59.129Z] : [success]: Bot finished successfully, total execution time: 5s 689ms
+
+[2022-05-17T17:41:59.132Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:42:05.218Z] : [success]: Bot started
+
+[2022-05-17T17:42:05.219Z] : [info]: Robot start
+
+[2022-05-17T17:43:24.259Z] : [success]: Bot started
+
+[2022-05-17T17:43:24.261Z] : [info]: Robot start
+
+[2022-05-17T17:43:27.648Z] : [info]: true
+
+[2022-05-17T17:43:28.130Z] : [success]: Bot finished successfully, total execution time: 3s 866ms
+
+[2022-05-17T17:43:28.134Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:45:28.911Z] : [success]: Bot started
+
+[2022-05-17T17:45:28.912Z] : [info]: Robot start
+
+[2022-05-17T17:45:32.740Z] : [info]: false
+
+[2022-05-17T17:45:33.136Z] : [success]: Bot finished successfully, total execution time: 4s 221ms
+
+[2022-05-17T17:45:33.139Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:45:38.298Z] : [success]: Bot started
+
+[2022-05-17T17:45:38.301Z] : [info]: Robot start
+
+[2022-05-17T17:45:43.564Z] : [info]: true
+
+[2022-05-17T17:45:44.141Z] : [success]: Bot finished successfully, total execution time: 5s 837ms
+
+[2022-05-17T17:45:44.144Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:46:10.267Z] : [success]: Bot started
+
+[2022-05-17T17:46:10.269Z] : [info]: Robot start
+
+[2022-05-17T17:46:16.756Z] : [info]: false
+
+[2022-05-17T17:46:18.138Z] : [success]: Bot finished successfully, total execution time: 7s 866ms
+
+[2022-05-17T17:46:18.140Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:50:49.005Z] : [success]: Robot saved successfully
+
+[2022-05-17T17:50:55.443Z] : [success]: Robot saved successfully
+
+[2022-05-17T17:53:26.331Z] : [success]: Robot saved successfully
+
+[2022-05-17T17:53:31.636Z] : [success]: Bot started
+
+[2022-05-17T17:53:31.639Z] : [info]: Robot start
+
+[2022-05-17T17:53:35.474Z] : [error]: Please type a valid name
+
+[2022-05-17T17:53:39.220Z] : [error]: Canceled by user
+
+[2022-05-17T17:53:39.227Z] : [error]: Total execution time: 7s 579ms
+
+[2022-05-17T17:53:39.230Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:54:24.494Z] : [success]: Robot saved successfully
+
+[2022-05-17T17:54:28.274Z] : [success]: Bot started
+
+[2022-05-17T17:54:28.275Z] : [info]: Robot start
+
+[2022-05-17T17:54:48.173Z] : [success]: Bot finished successfully, total execution time: 19s 894ms
+
+[2022-05-17T17:54:48.177Z] : [info]: ---------------------------------------------
+
+[2022-05-17T17:56:10.157Z] : [success]: Robot saved successfully
+
+[2022-05-17T17:57:35.715Z] : [success]: Robot saved successfully
+
+[2022-05-17T17:59:24.283Z] : [success]: Robot saved successfully
+
+[2022-05-17T18:53:32.828Z] : [success]: Robot saved successfully
+
+[2022-05-17T18:53:44.181Z] : [success]: Robot saved successfully
+
+[2022-05-17T18:53:48.288Z] : [success]: Bot started
+
+[2022-05-17T18:53:48.290Z] : [info]: Robot start
+
+[2022-05-17T18:53:57.894Z] : [info]: True
+
+
+[2022-05-17T18:53:58.297Z] : [success]: Bot finished successfully, total execution time: 10s 5ms
+
+[2022-05-17T18:53:58.300Z] : [info]: ---------------------------------------------
+
+[2022-05-17T18:54:03.743Z] : [success]: Bot started
+
+[2022-05-17T18:54:03.744Z] : [info]: Robot start
+
+[2022-05-17T18:54:09.343Z] : [info]: True
+
+
+[2022-05-17T18:54:09.983Z] : [success]: Bot finished successfully, total execution time: 6s 236ms
+
+[2022-05-17T18:54:09.987Z] : [info]: ---------------------------------------------
+
+[2022-05-17T18:54:14.435Z] : [success]: Bot started
+
+[2022-05-17T18:54:14.436Z] : [info]: Robot start
+
+[2022-05-17T18:54:25.087Z] : [info]: True
+
+
+[2022-05-17T18:54:25.992Z] : [success]: Bot finished successfully, total execution time: 11s 554ms
+
+[2022-05-17T18:54:25.994Z] : [info]: ---------------------------------------------
+
+[2022-05-17T18:54:30.633Z] : [success]: Bot started
+
+[2022-05-17T18:54:30.634Z] : [info]: Robot start
+
+[2022-05-17T18:54:41.989Z] : [error]: Canceled by user
+
+[2022-05-17T18:54:41.995Z] : [error]: Total execution time: 11s 354ms
+
+[2022-05-17T18:54:41.998Z] : [info]: ---------------------------------------------
+
+[2022-05-17T18:54:46.843Z] : [success]: Bot started
+
+[2022-05-17T18:54:46.844Z] : [info]: Robot start
+
+[2022-05-17T18:54:58.858Z] : [info]: True
+
+
+[2022-05-17T18:54:58.974Z] : [success]: Bot finished successfully, total execution time: 12s 127ms
+
+[2022-05-17T18:54:58.976Z] : [info]: ---------------------------------------------
+
