@@ -16,13 +16,13 @@ def remove_commas(text: str) -> str:
     # Remove more than one comma and replace by one (,,,,,,,,,,,, = ,)
     text = re.sub('(,)+', ',', text)
 
+
     text_length = len(text)
-    last_character = text[text_length - 2]
-    
+    last_character = text[text_length - 1]
+
     # If remain a comma at the end of the text, remove it    
     if last_character == ',':
-        text = text[:-2]
-       
+        text = text[:-1]
 
     return text
 
